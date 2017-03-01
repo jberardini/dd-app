@@ -418,5 +418,7 @@ input:disabled + label {
 
 
 .print {
-  border-color: red;
+  border: thin solid red;
+  color: black;
+  line-height: 100px;
 }
